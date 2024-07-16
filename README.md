@@ -1,3 +1,3 @@
-# Carrinho de Compras
+# Compra de Ingressos
 ### Projeto desenvolvido no curso de Lógica de Programação da Alura.
-<img src="carrinhoCompras.png" width="100%">
+<img src="compraIngressos.png" width="100%">
